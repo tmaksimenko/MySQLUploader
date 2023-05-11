@@ -1,0 +1,6 @@
+database = 'storefront_schema'
+tablename = 'products'
+host = 'localhost'
+user = 'root'
+password = 'testpass'
+filename = 'products.csv'
